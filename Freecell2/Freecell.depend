@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1525525759 source:d:\cycle d'ingénieure\bdcc 2017 - s2\structure de donnée\tp\freecell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	"main.h"
+
+1525524875 d:\cycle d'ingénieure\bdcc 2017 - s2\structure de donnée\tp\freecell\main.h
+	"pilha.h"
+
+1525525299 d:\cycle d'ingénieure\bdcc 2017 - s2\structure de donnée\tp\freecell\pilha.h
+	<stdlib.h>
+
+1525525614 source:d:\cycle d'ingénieure\bdcc 2017 - s2\structure de donnée\tp\freecell\pilha.c
+	"pilha.h"
+
+1525526225 source:d:\cycle d'ingénieure\bdcc 2017 - s2\structure de donnée\tp\freecell\ui.c
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	"main.h"
+	"pilha.h"
+
+1525529359 source:d:\freecell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	"main.h"
+
+1525528475 d:\freecell\main.h
+	"pilha.h"
+
+1525528899 d:\freecell\pilha.h
+	<stdlib.h>
+
+1525529214 source:d:\freecell\pilha.c
+	"pilha.h"
+
+1525529825 source:d:\freecell\ui.c
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	"main.h"
+	"pilha.h"
+
