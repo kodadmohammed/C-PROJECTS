@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527074293 source:f:\arbres\main.c
+	"arbre.c"
+
+1527063429 f:\arbres\arbre.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+
+1527062110 f:\arbres\arbre.h
+
